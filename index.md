@@ -1,34 +1,29 @@
 ---
 title: Harrison Shepherd Portfolio
-description: A showcase of my projects and skills
+description: A showcase of my projects, skills, and GitHub repositories.
 ---
 
 # 👋 Harrison Shepherd  
 
 ## 🚀 Projects  
 
-### Sports Web-Scraper  
-[View Repository](https://github.com/Harrison-Shepherd/sports-web-scraper)  
-Extracted and processed 15 years of sports data using Python, pandas, and MySQL.
+### [Sports Web-Scraper](https://github.com/Harrison-Shepherd/Champion-Data-Scraper)  
+Extracted and processed 15 years of sports data using Python, pandas, and MySQL. Designed modular scripts for targeted scrapes and optimized data pipelines.
 
-### Linear Regression Model  
-[View Repository](https://github.com/Harrison-Shepherd/linear-regression-model)  
-Built predictive models for energy consumption using Ridge and Lasso regression.
+### [Linear Regression Model](https://github.com/Harrison-Shepherd/Linear-Regression-Model)  
+Built predictive models for energy consumption using Ridge and Lasso regression, implementing feature engineering and data cleaning techniques.
 
-### Convolutional Neural Network  
-[View Repository](https://github.com/Harrison-Shepherd/cnn-project)  
-Implemented a CNN for image classification with TensorFlow.
+### [Convolutional Neural Network](https://github.com/Harrison-Shepherd/Convolutional-Neural-Network)  
+Implemented a CNN for image classification using TensorFlow, with data preprocessing, augmentation, and learning rate optimization.
 
-### Login System GUI  
-[View Repository](https://github.com/Harrison-Shepherd/login-system-gui)  
-Designed a secure Kivy-based GUI app integrated with Redis for data storage.
+### [Campground Booking Management System](https://github.com/Harrison-Shepherd/Database-Campground-Project)  
+Developed a Flask-based system integrating SQL Server and Cosmos DB on Azure for campsite booking management and PDF generation.
 
-### Campground Booking Management System  
-[View Repository](https://github.com/Harrison-Shepherd/campground-booking-system)  
-Developed a Flask application integrating SQL Server and Cosmos DB for campsite management.
+### [Find a Campsite App](https://github.com/Harrison-Shepherd/Find-a-Campsite-App)  
+Designed a Kivy-based GUI app for managing campsite accounts, with secure login functionality using Redis and bcrypt encryption.
 
 ---
 
 ## 📫 Contact  
-- Email: [harrisonshepherd29@gmail.com](mailto:harrisonshepherd29@gmail.com)  
-- GitHub: [Harrison-Shepherd](https://github.com/Harrison-Shepherd)  
+- 📧 **Email**: [harrisonshepherd29@gmail.com](mailto:harrisonshepherd29@gmail.com)  
+- 🔗 **GitHub**: [Harrison-Shepherd](https://github.com/Harrison-Shepherd)  
