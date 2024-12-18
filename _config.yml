@@ -1,0 +1,32 @@
+title: Harrison Shepherd Portfolio
+description: >- 
+  A showcase of my projects, skills, and GitHub repositories.
+  Built using GitHub Pages and Jekyll.
+author: Harrison Shepherd
+email: harrisonshepherd29@gmail.com
+github_username: Harrison-Shepherd
+
+# Theme Configuration
+theme: minima
+minima:
+  skin: classic
+  social_links:
+    - { platform: github,         user_url: "https://github.com/Harrison-Shepherd" }
+    - { platform: linkedin,       user_url: "https://linkedin.com/in/your-profile" }
+    - { platform: email,          user_url: "mailto:harrisonshepherd29@gmail.com" }
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Navigation Links
+header_pages:
+  - index.md
+  - projects.md
+  - contact.md
+
+# Exclude files from Jekyll build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
